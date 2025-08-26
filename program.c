@@ -15,7 +15,7 @@ int main() {
     printf("Boolean e = %d\n\n", e);
 
     // 🔧 Operators
-    int x = 7, y = 3;
+    int x = 8, y = 3;
 
     // Arithmetic Operators
     printf("x + y = %d\n", x + y);
